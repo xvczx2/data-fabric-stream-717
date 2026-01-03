@@ -1,0 +1,1 @@
+const util_t22u = (d: any) => d;
